@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vergeful
 - 👀 I’m interested in learning computer science.
-- 🌱 I’m currently learning the basics.
-- 💞️ I’m looking to collaborate on nothing at the moment, until I build a proper foundation.
-- 📫 How to reach me: N/A
+- 🌱 I’m currently learning full stack development (HTML > CSS > Javascript > React > Express > Node.js > MongoDB) :)
+- 💞️ I’m not looking to collaborate until I build a proper foundation.
+- 📫 How to reach me: email me at saviturmaharaj@gmail.com :p
 
 <!---
 Vergeful/Vergeful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
