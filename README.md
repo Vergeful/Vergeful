@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vergeful
 - 👀 I’m interested in learning computer science.
-- 🌱 I’m currently learning web development :)
+- 🌱 I’m currently learning web and mobile development :)
 - 💞️ I’m looking for an internship for Summer 2024 :3
 - 📫 How to reach me: email me at saviturmaharaj@gmail.com :p
 
