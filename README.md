@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Savitur! I live in Calgary,Alberta in Canada <3
 - 👀 I’m interested in web and mobile development, as well as incorporating A.I. tools into workflows to increase efficiency :)
-- 💞️ I’m looking for an internship for Summer 2026 :3
 - 📫 How to reach me: email me at saviturmaharaj@gmail.com :p
 
 <!---
